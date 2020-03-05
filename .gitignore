@@ -1,0 +1,8 @@
+*~
+.*
+c.out
+gocov.txt
+tests.test
+/go-foo/
+/go-dl/
+
